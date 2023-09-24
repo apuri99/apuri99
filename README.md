@@ -9,7 +9,7 @@ I'm Andrea Puricelli, a Statistical Learning and Engineering Graduate at Politec
 - Development of a wearable fall detection system using Machine Learning: Created a Python-based classification system that utilizes accelerometer data to differentiate various activities of daily living, including running, walking, and falling. This system leverages machine learning models and employs time series feature extraction techniques for accurate activity recognition.
 ## 📢 Contacts:
 - E-mail: puri.andrea@libero.it
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn)](https://www.linkedin.com/in/andrea-puricelli-/)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/andrea-puricelli-/)
 ## 👦 About me:
 - ♟ I enjoy playing chess
 - 🎾 Tennis player for 10+ years
