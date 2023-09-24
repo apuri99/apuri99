@@ -10,8 +10,6 @@ I'm Andrea Puricelli, a Statistical Learning and Engineering Graduate at Politec
 ## 📢 Contacts:
 - E-mail: puri.andrea@libero.it
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/andrea-puricelli-/)
--  [LinkedIn](https://www.linkedin.com/in/andrea-puricelli-/)
-
 ## 👦 About me:
 - ♟ I enjoy playing chess
 - 🎾 Tennis player for 10+ years
